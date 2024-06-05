@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+    <defs>
+        <style>
+            .cls-1 {
+                font-size: 97.92px;
+                font-family: Montserrat-SemiBoldItalic, Montserrat;
+                font-weight: 600;
+                font-style: italic;
+                letter-spacing: 0em;
+            }
+
+            .cls-1,
+            .cls-10 {
+                fill: #67ad53;
+            }
+
+            .cls-2,
+            .cls-6 {
+                letter-spacing: 0.01em;
+            }
+
+            .cls-3 {
+                letter-spacing: 0.02em;
+            }
+
+            .cls-4 {
+                letter-spacing: 0.01em;
+            }
+
+            .cls-5,
+            .cls-6,
+            .cls-7,
+            .cls-8 {
+                fill: #fff
+            }
+
+
+            .cls-9 {
+                fill: #294159;
+            }
+
+            .cls-5,
+            .cls-6,
+            .cls-7,
+            .cls-8 {
+                font-family: Montserrat-ExtraBoldItalic, Montserrat;
+                font-weight: 800;
+            }
+
+            .cls-5 {
+                letter-spacing: -0.01em;
+            }
+
+            .cls-7 {
+                letter-spacing: 0.02em;
+            }
+
+            .cls-8 {
+                letter-spacing: 0.01em;
+            }
+
+            .cls-11 {
+                fill: #f4f4f4;
+            }
+        </style>
+    </defs>
+    <g id="OBJECTS"><text class="cls-1" transform="translate(13.83 432.97) scale(0.96 1)">S<tspan class="cls-2"
+                x="61.59" y="0">wi</tspan>
+            <tspan class="cls-3" x="182.13" y="0">f</tspan>
+            <tspan class="cls-4" x="220.12" y="0">t</tspan>
+            <tspan class="cls-5" x="262.62" y="0">C</tspan>
+            <tspan class="cls-6" x="334.19" y="0">a</tspan>
+            <tspan class="cls-7" x="403.23" y="0">r</tspan>
+            <tspan class="cls-8" x="449.05" y="0">t</tspan>
+        </text>
+        <path class="cls-9"
+            d="M344.46,299.54H145.38c-11.87,0-20-10.25-17-21.28l58.22-208.2c2.35-8.41,10.59-14.48,19.64-14.48H405.36c11.88,0,20.05,10.25,17,21.28L364.1,285.06C361.75,293.46,353.51,299.54,344.46,299.54Z" />
+        <path class="cls-10"
+            d="M332.66,299.54H133.58A18.9,18.9,0,0,1,115,277L157.65,57A18.9,18.9,0,0,1,176.2,41.67H375.28a18.9,18.9,0,0,1,18.56,22.49L351.21,284.23A18.9,18.9,0,0,1,332.66,299.54Z" />
+        <circle class="cls-9" cx="212.37" cy="77.18" r="11.47" />
+        <path class="cls-9"
+            d="M212.37,90.68a13.5,13.5,0,1,1,13.5-13.5A13.52,13.52,0,0,1,212.37,90.68Zm0-22.94a9.44,9.44,0,1,0,9.44,9.44A9.45,9.45,0,0,0,212.37,67.74Z" />
+        <circle class="cls-9" cx="319.35" cy="77.18" r="11.47" />
+        <path class="cls-9"
+            d="M319.35,90.68a13.5,13.5,0,1,1,13.5-13.5A13.52,13.52,0,0,1,319.35,90.68Zm0-22.94a9.44,9.44,0,1,0,9.44,9.44A9.45,9.45,0,0,0,319.35,67.74Z" />
+        <path class="cls-10"
+            d="M361.31,299.54l20-102.34A27.15,27.15,0,0,1,408,175.26h61.46a27.15,27.15,0,0,1,26.75,31.8L480.1,299.54Z" />
+        <circle class="cls-9" cx="220.01" cy="299.54" r="36.21" />
+        <path class="cls-11" d="M236.64,299.54A16.63,16.63,0,1,1,220,282.91,16.64,16.64,0,0,1,236.64,299.54Z" />
+        <circle class="cls-9" cx="417.11" cy="299.54" r="36.21" />
+        <path class="cls-9" d="M90.44,183.38H54.91a8.12,8.12,0,1,1,0-16.24H90.44a8.12,8.12,0,0,1,0,16.24Z" />
+        <path class="cls-9" d="M115.21,183.38h-3.58a8.12,8.12,0,1,1,0-16.24h3.58a8.12,8.12,0,0,1,0,16.24Z" />
+        <path class="cls-9" d="M159.33,239H63.94a8.12,8.12,0,0,1,0-16.24h95.39a8.12,8.12,0,0,1,0,16.24Z" />
+        <path class="cls-9" d="M83.71,211.16H8.12a8.12,8.12,0,1,1,0-16.23H83.71a8.12,8.12,0,1,1,0,16.23Z" />
+        <path class="cls-9"
+            d="M255.8,175H233.38a37,37,0,0,1-36.27-44.63l11.28-54,8,1.66-11.28,54a28.93,28.93,0,0,0,28.32,34.86H255.8a47.1,47.1,0,0,0,45.72-35.62l13.89-55,7.87,2-13.89,55A55.2,55.2,0,0,1,255.8,175Z" />
+        <circle class="cls-11" cx="417.11" cy="299.54" r="16.63" />
+    </g>
+</svg>

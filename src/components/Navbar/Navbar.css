@@ -1,0 +1,29 @@
+
+.categories{
+    /* font-size: 1.25rem; */
+    li{
+      cursor: pointer;  
+    }
+
+    hr{
+        background-color: #67ad53;
+        height:2px;
+        border: none;
+        margin-top: 6px;
+    }
+}
+
+.navbar{
+    background-color: #e9f9e6;
+}
+
+.cart-count{
+    display: flex;
+    width: 12px;
+    height: 12px;
+    right: -2px;
+    font-size: 8px;
+    align-items:center;
+    justify-content: center;
+    font-weight: 500;
+}
